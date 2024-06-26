@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=158D23&center=true&vCenter=true&repeat=false&random=false&width=894&height=168&lines=Vanessa+Elizabeth+Piccoli)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=158D23&center=true&vCenter=true&repeat=false&random=false&width=894&height=168&lines=QA+analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=158D23&center=true&vCenter=true&repeat=false&random=false&width=894&height=40&lines=Vanessa+Elizabeth+Piccoli)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=158D23&center=true&vCenter=true&repeat=false&random=false&width=894&height=40&lines=QA+analyst)](https://git.io/typing-svg)
